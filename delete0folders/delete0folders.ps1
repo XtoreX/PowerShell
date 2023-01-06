@@ -1,4 +1,4 @@
-## Definimos el los directorios en los que eliminar sus hijos vacíos
+## Definimos los directorios en los que eliminar sus hijos vacíos
 $targetFolder = @("C:\inetpub\wwwroot\Imagenes\folder1", 
                   "C:\inetpub\wwwroot\Imagenes\folder2", 
                   "C:\inetpub\wwwroot\Ficheros\folder3", 
