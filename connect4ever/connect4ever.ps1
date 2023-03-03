@@ -1,5 +1,5 @@
 # Auto-Change-Gateway en un Servidor sin DHCP
-# Revisión : 2022-12/20
+# Revisión : 2022-12-20
 
 # La idea es poder cambiar entre 2 Gateways, el principal y el secundario, 
 # de esta manera minimizamos el tiempo de desconexión de nuestro servidor.
